@@ -1,0 +1,6 @@
+---
+config: 
+  output_file: README.md
+  list_title: Awesome Templates!
+  markdown_header_file: config/header.md
+  markdown_footer_file: config/footer.md
